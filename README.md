@@ -5,7 +5,9 @@ A simple MERN stack project to manage sessions with login, draft save, publish, 
 ## Project Structure
 
 Yoga/
+
 ├── Backend/
+
 ├── Frontend/
 
 ## Setup Instructions
